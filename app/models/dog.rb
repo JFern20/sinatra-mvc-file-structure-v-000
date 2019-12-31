@@ -12,6 +12,6 @@ class Dog
     @all
   end 
   
-  dog.new
+  dog.new("Spike")
   
 end 

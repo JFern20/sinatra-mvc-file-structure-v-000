@@ -1,5 +1,8 @@
 class Dog 
   
+  attr_accessible :name, :breed, :age
+  
+  
   @all = []
   
   def initialize(name, breed, age)
